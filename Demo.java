@@ -13,7 +13,7 @@ public class Demo{
 		} */
 		System.out.println("Valor:"+v1);
 		if (x == 2) {
-			System.out.println("Es true");
+			System.out.println("Impriendo Es true");
 		}
 	}
 
