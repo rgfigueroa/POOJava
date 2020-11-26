@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package encapsulamiento;
+package encapsulamiento; //Comentar esta linea del Package si corren desde linea de comandos.
 
 /**
  * Descipción: Ejercicio que permite inciarse en el principio de Encapsulamiento
